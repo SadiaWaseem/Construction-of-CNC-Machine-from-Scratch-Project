@@ -2,12 +2,6 @@
 
 This guide goes through all the steps to build your own CNC machine from scratch. It includes a complete bill of materials (BOM), STL/OBJ-files for all the 3d-printed parts and detailed instructions of how everything is assembled. It also includes instructions of how all the necessary open-source softwares are installed.
 
-The guide is based on Ivan Miranada's design and is a complement to Ivan's Youtube-videos:
-
-1. Original video: [https://www.youtube.com/watch?v=_atw3e0nIrg](https://www.youtube.com/watch?v=_atw3e0nIrg)
-2. Updates with geared stepper motors etc: [https://www.youtube.com/watch?v=qpjf5D3WngY](https://www.youtube.com/watch?v=qpjf5D3WngY)
-3. Updating to metal parts: [https://www.youtube.com/watch?v=RDnGvhdGFEY](https://www.youtube.com/watch?v=RDnGvhdGFEY)
-
 If you have any questions, feel free to contact me on LinkedIn: [https://www.linkedin.com/in/sadia-waseem-542723186/) 
 
 ![cnc_top_gif](./images/cnc_top_gif.gif)
